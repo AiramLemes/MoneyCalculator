@@ -1,0 +1,8 @@
+EUR,Euro,€
+USD,Dólar americano,$
+HKD,Dólar Hong Kong,$
+BRL,Centavo,R$
+CLP,Peso Chileno,$
+JPY,Yen Japones,¥
+KPW,Won Kores del Norte,₩
+GBP,Libra Reino Unido,£
